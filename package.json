@@ -1,0 +1,27 @@
+{
+  "name": "menu-demo",
+  "productName": "Menu Demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aprilmaraat/menu-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aprilmaraat/menu-demo/issues"
+  },
+  "homepage": "https://github.com/aprilmaraat/menu-demo#readme",
+  "devDependencies": {
+    "electron-prebuilt": "^1.4.13"
+  },
+  "dependencies": {
+    "jshint": "^2.13.5"
+  }
+}
